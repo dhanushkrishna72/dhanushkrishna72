@@ -1,9 +1,10 @@
 ## Hi, I'm Dhanush K
 
-🎓 EEE Student passionate about tech, startups, and solving real-world problems<br />
-💻 Learning MERN Stack, DSA in C, and React Native to build powerful apps  <br />
-🚀 Aspiring solo founder aiming to launch a mini SaaS by 2025  <br />
-
+⚡ EEE → Software | MERN 🖥️, React Native 📱, DSA in C <br />
+🤖 Exploring AI & Data Science | Learning in public 💻 <br />
+🚀 Curious about startups, systems, and building cool things from scratch <br />
+🧠 Known as Sir Matrix — search Matrix Hadhaan to find me online <br />
+🌐 hadhaan.com — my little corner of the internet <br />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanush-krishna-87a6a2320/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dhanushk_) 
