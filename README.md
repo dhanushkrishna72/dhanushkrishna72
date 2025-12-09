@@ -1,9 +1,11 @@
 ## Hi, I'm Dhanush K
 
 ⚡ EEE → Software | MERN 🖥️, React Native 📱, DSA in C  <br />
+👨‍💻 Fullstack along with hands on experience in JAVA(OOPS, JUnit, SpringBoot), Python(StreamLit, Pandas& other libraries) <br /> 
 🤖 Exploring AI & Data Science | Learning in public 💻  <br />
 🚀 Curious about startups, systems, and building cool things from scratch <br /> 
 🌐 Founder of [Hadhaan.com](https://hadhaan.com) — my little corner of the internet  <br />
+🏢 Building [@SamikshaLearningSolution](https://samikshalearning.com) - Happy to be a Co-Founder and Head of Project Management & Technologies <br />
 🔎 Search *dhanushkrishna* to find me online <br /> 
 
 ## 🌐 Socials:
