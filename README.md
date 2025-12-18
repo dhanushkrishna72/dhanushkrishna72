@@ -6,7 +6,7 @@
 🚀 Curious about startups, systems, and building cool things from scratch <br /> 
 🌐 Founder of [Hadhaan.com](https://hadhaan.com) — my little corner of the internet  <br />
 🏢 Building [@SamikshaLearningSolution](https://samikshalearning.com) - Happy to be a Co-Founder and Head of Project Management & Technologies <br />
-🔎 Search *dhanushkrishna* to find me online <br /> 
+🔎 Search **hadhaan** to find me online <br /> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanush-krishna-87a6a2320/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dhanushk_)
