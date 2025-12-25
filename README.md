@@ -16,7 +16,6 @@
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=dhanushkrishna72&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhanushkrishna72&theme=nightowl&hide_border=false)<br/> -->
-[]!(https://streak-stats.demolab.com/?user=dhanushkrishna72)
 ---
 [![](https://visitcount.itsvg.in/api?id=dhanushkrishna72&icon=0&color=0)](https://visitcount.itsvg.in)
 
