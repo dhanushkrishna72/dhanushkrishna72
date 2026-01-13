@@ -1,6 +1,6 @@
 ## Hi, I'm Dhanush K
 
-⚡ EEE → Software | MERN 🖥️, React Native 📱, DSA in C  <br />
+⚡ EEE → Software | MERN 🖥️, React Native 📱, DSA , JAVA (OOPs) <br />
 👨‍💻 Fullstack along with hands on experience in JAVA(OOPS, JUnit, SpringBoot), Python(StreamLit, Pandas& other libraries) <br /> 
 🤖 Exploring AI & Data Science | Learning in public 💻  <br />
 🚀 Curious about startups, systems, and building cool things from scratch <br /> 
