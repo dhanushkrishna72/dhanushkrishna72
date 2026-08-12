@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1A1D21&height=200&section=header&text=Dhanush%20K&fontSize=42&fontColor=FFB000&fontAlignY=38&desc=aka%20It's.Pluto.44&descAlignY=58&descSize=18&descColor=EDE8D0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,100:FFB000&height=200&section=header&text=Dhanush%20K&fontSize=42&fontColor=0A0A0A&fontAlignY=38&desc=aka%20It's.Pluto.44&descAlignY=58&descSize=18&descColor=EDE8D0&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=22&pause=1000&color=FFB000&center=true&vCenter=true&width=650&lines=root%40hadhaan%3A~%23+training_models();root%40hadhaan%3A~%23+breaking_things_ethically();root%40hadhaan%3A~%23+chasing_patterns_in_data();root%40hadhaan%3A~%23+securing_what_I_build();root%40hadhaan%3A~%23+self.taught+%3D+True" alt="Typing SVG" />
@@ -125,6 +125,6 @@ Search **dhanush krishna** and you'll find me.
 
 [![](https://visitcount.itsvg.in/api?id=dhanushkrishna72&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1D21,100:0A0A0A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,100:FFB000&height=100&section=footer" width="100%"/>
 
 </div>
