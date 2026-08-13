@@ -33,14 +33,12 @@ dhanush@hadhaan:~$ █
 <details>
 <summary> <b>whoami --verbose</b></summary>
 <br/>
-
--> Building **Hadhaan** my own little corner of the internet, from idea to shipped product.
--> Competitive programmer at heart, I break problems down until they stop being scary.
--> Drawn to the math underneath the models, probability, patterns, and what actually makes a system tick (or break).
--> Curious about how systems fail, understanding the attack surface is half of understanding the system.
--> Currently reading up on attention mechanisms and transformer architectures, alongside CLRS for algorithms.
--> Went from an Electrical & Electronics Engineering classroom to shipping full-stack apps, nobody handed me the map, I just started walking.
-
+  -> Building Hadhaan my own little corner of the internet, from idea to shipped product.<br/>
+  -> Competitive programmer at heart, I break problems down until they stop being scary.<br/>
+  -> Drawn to the math underneath the models, probability, patterns, and what actually makes a system tick (or break).<br/>
+  -> Curious about how systems fail, understanding the attack surface is half of understanding the system.<br/>
+  -> Currently reading up on attention mechanisms and transformer architectures, alongside CLRS for algorithms.<br/>
+  -> Went from an Electrical & Electronics Engineering classroom to shipping full-stack apps, nobody handed me the map, I just started walking.<br/>
 </details>
 
 <details>
