@@ -1,164 +1,81 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<a href="https://hadhaan.com"><img src="./assets/hero.svg" width="100%"/></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=22&duration=3000&pause=800&color=39FF14&background=0D0D0D&center=true&vCenter=true&width=750&lines=INTRODUCING+THE+ALL-NEW+DHANUSH-K+3000;NOW+WITH+SELF-TAUGHT+PROCESSOR;RUNS+ON+CURIOSITY+AND+COLD+COFFEE;NO+MANUAL+INCLUDED.+FIGURED+IT+OUT+HIMSELF." alt="Typing SVG"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhanushkrishna72&color=FF2E97&style=for-the-badge&label=UNITS+VIEWED)
+![Profile Views](https://komarev.com/ghpvc/?username=dhanushkrishna72&color=B9A6D9&style=flat-square&label=VISITOR+COUNT)
 
 </div>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  H A D H A A N   M I C R O S Y S T E M S   —   1986 CATALOG    ║
-║  "The Personal Computer for the Person Who Refuses to Wait"    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
 <div align="center">
-<table>
-<tr><td>
-
-```
-  SPEC SHEET ─────────────────────────
-  UNIT NAME .......... Dhanush K
-  ALIAS .............. It's.Pluto.44
-  CLASS .............. 3rd Year, EEE
-  LOCATION .......... Bengaluru, IN
-  PRIMARY DRIVE ...... AI / ML / DS
-  SECONDARY DRIVE .... Cybersecurity
-  FOUNDED ............ Hadhaan Technologies
-  BOOT METHOD ........ Self-Taught (no floppy required)
-  ─────────────────────────────────────
-```
-
-</td></tr>
-</table>
+<img src="./assets/whoami.svg" width="100%"/>
 </div>
 
 <br/>
 
-## ▓▓▓ NOW ON DISPLAY ▓▓▓
-
-<details open>
-<summary><b>► WHOAMI.EXE — click to run</b></summary>
-<br/>
-
-```
-LOADING PROFILE...
-────────────────────────────────────────
-[OK] Building Hadhaan — my own corner of the internet, idea to shipped product
-[OK] Competitive programmer, breaks problems down until they stop being scary
-[OK] Drawn to the math under the models: probability, patterns, what makes a system tick
-[OK] Studies how systems fail, believes the attack surface is half the system
-[OK] Currently reading attention mechanisms, transformer architecture, and CLRS
-[OK] Walked from an EEE classroom to shipping full-stack apps. Nobody drew the map.
-────────────────────────────────────────
-PROFILE LOADED SUCCESSFULLY.
-```
-
-</details>
+<div align="center">
+<img src="./assets/projects.svg" width="100%"/>
+</div>
 
 <br/>
 
-## ▓▓▓ PRODUCT LINE ▓▓▓
+<div align="center">
+<img src="./assets/stack.svg" width="100%"/>
+</div>
+
+<br/>
+
+## ⚬ ⚬ ⚬ &nbsp; SYSTEM BENCHMARKS
 
 <div align="center">
 
-| MODEL | DESCRIPTION | STATUS |
-|---|---|---|
-| **HADHAAN.COM** | Flagship startup. Co-founder & CPTO. Built from the ground up. | `[ SHIPPING ]` |
-| **SAMIKSHA LEARNING SOLUTION** | Co-founder, leads Project Management & Tech. | `[ IN PRODUCTION ]` |
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=dhanushkrishna72&hide_border=true&include_all_commits=true&count_private=true&bg_color=FBF0CE&title_color=2C2A22&text_color=2C2A22&icon_color=B9A6D9&border_color=2C2A22"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhanushkrishna72&hide_border=true&layout=compact&bg_color=FBF0CE&title_color=2C2A22&text_color=2C2A22&border_color=2C2A22"/>
+
+<img src="https://streak-stats.demolab.com?user=dhanushkrishna72&hide_border=true&background=FBF0CE&stroke=2C2A22&ring=F2A6C7&fire=F2C94C&currStreakLabel=2C2A22&sideLabels=2C2A22&currStreakNum=2C2A22&sideNums=2C2A22&dates=6b6752" alt="streak stats"/>
+
+<img src="https://ghchart.rshah.org/B9A6D9/dhanushkrishna72" alt="contribution heatmap" width="100%"/>
 
 </div>
 
 <br/>
 
-## ▓▓▓ CURRENTLY RUNNING ▓▓▓
-
-```
-TASK MANAGER ───────────────────────────
- STUDYING  : Probability, Algorithms (CLRS), Transformers, Business
- GRINDING  : DSA, LeetCode, Codeforces, NeetCode
- BUILDING  : Hadhaan Technologies Pvt. Ltd.
- ASK ABOUT : Startups, AI/ML fundamentals, Maths, EEE to Software
-─────────────────────────────────────────
-CPU USAGE: [██████████████████░░] 92%
-```
-
-<br/>
-
-## ▓▓▓ PERFORMANCE BENCHMARKS ▓▓▓
+## ⚬ ⚬ ⚬ &nbsp; COMPATIBLE COMPONENTS
 
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=dhanushkrishna72&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FF2E97&text_color=00FFF7&icon_color=39FF14&border_color=1A1D21"/>
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhanushkrishna72&hide_border=true&layout=compact&bg_color=0D0D0D&title_color=FF2E97&text_color=00FFF7&border_color=1A1D21"/>
+**AI / ML / DATA SCIENCE**<br/>
+![Python](https://img.shields.io/badge/python-FBF0CE?style=for-the-badge&logo=python&logoColor=2C2A22&labelColor=A9CD86) ![NumPy](https://img.shields.io/badge/numpy-FBF0CE?style=for-the-badge&logo=numpy&logoColor=2C2A22&labelColor=A9CD86) ![Pandas](https://img.shields.io/badge/pandas-FBF0CE?style=for-the-badge&logo=pandas&logoColor=2C2A22&labelColor=A9CD86) ![R](https://img.shields.io/badge/r-FBF0CE?style=for-the-badge&logo=r&logoColor=2C2A22&labelColor=A9CD86)
 
-<img src="https://streak-stats.demolab.com?user=dhanushkrishna72&hide_border=true&background=0D0D0D&stroke=1A1D21&ring=FF2E97&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FFF7&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=B8BDC7" alt="streak stats"/>
+**CORE / SYSTEMS**<br/>
+![C](https://img.shields.io/badge/c-FBF0CE.svg?style=for-the-badge&logo=c&logoColor=2C2A22&labelColor=F2A6C7) ![C++](https://img.shields.io/badge/c++-FBF0CE.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2C2A22&labelColor=F2A6C7) ![Dart](https://img.shields.io/badge/dart-FBF0CE.svg?style=for-the-badge&logo=dart&logoColor=2C2A22&labelColor=F2A6C7)
 
-<img src="https://ghchart.rshah.org/FF2E97/dhanushkrishna72" alt="contribution heatmap" width="100%"/>
+**WEB / MOBILE**<br/>
+![JavaScript](https://img.shields.io/badge/javascript-FBF0CE.svg?style=for-the-badge&logo=javascript&logoColor=2C2A22&labelColor=F6C990) ![HTML5](https://img.shields.io/badge/html5-FBF0CE.svg?style=for-the-badge&logo=html5&logoColor=2C2A22&labelColor=F6C990) ![CSS3](https://img.shields.io/badge/css3-FBF0CE.svg?style=for-the-badge&logo=css3&logoColor=2C2A22&labelColor=F6C990) ![React Native](https://img.shields.io/badge/react_native-FBF0CE.svg?style=for-the-badge&logo=react&logoColor=2C2A22&labelColor=F6C990) ![Next JS](https://img.shields.io/badge/Next-FBF0CE?style=for-the-badge&logo=next.js&logoColor=2C2A22&labelColor=F6C990) ![NodeJS](https://img.shields.io/badge/node.js-FBF0CE?style=for-the-badge&logo=node.js&logoColor=2C2A22&labelColor=F6C990) ![Express.js](https://img.shields.io/badge/express.js-FBF0CE.svg?style=for-the-badge&logo=express&logoColor=2C2A22&labelColor=F6C990) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-FBF0CE.svg?style=for-the-badge&logo=tailwind-css&logoColor=2C2A22&labelColor=F6C990)
 
-</div>
-
-<br/>
-
-## ▓▓▓ COMPATIBLE COMPONENTS ▓▓▓
-
-<div align="center">
-
-**AI / ML / DATA SCIENCE MODULE**<br/>
-![Python](https://img.shields.io/badge/python-0D0D0D?style=for-the-badge&logo=python&logoColor=39FF14) ![NumPy](https://img.shields.io/badge/numpy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=39FF14) ![Pandas](https://img.shields.io/badge/pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=39FF14) ![R](https://img.shields.io/badge/r-0D0D0D?style=for-the-badge&logo=r&logoColor=39FF14)
-
-**CORE / SYSTEMS MODULE**<br/>
-![C](https://img.shields.io/badge/c-0D0D0D.svg?style=for-the-badge&logo=c&logoColor=00FFF7) ![C++](https://img.shields.io/badge/c++-0D0D0D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00FFF7) ![Dart](https://img.shields.io/badge/dart-0D0D0D.svg?style=for-the-badge&logo=dart&logoColor=00FFF7)
-
-**WEB / MOBILE MODULE**<br/>
-![JavaScript](https://img.shields.io/badge/javascript-0D0D0D.svg?style=for-the-badge&logo=javascript&logoColor=FF6EC7) ![HTML5](https://img.shields.io/badge/html5-0D0D0D.svg?style=for-the-badge&logo=html5&logoColor=FF6EC7) ![CSS3](https://img.shields.io/badge/css3-0D0D0D.svg?style=for-the-badge&logo=css3&logoColor=FF6EC7) ![React Native](https://img.shields.io/badge/react_native-0D0D0D.svg?style=for-the-badge&logo=react&logoColor=FF6EC7) ![Next JS](https://img.shields.io/badge/Next-0D0D0D?style=for-the-badge&logo=next.js&logoColor=FF6EC7) ![NodeJS](https://img.shields.io/badge/node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=FF6EC7) ![Express.js](https://img.shields.io/badge/express.js-0D0D0D.svg?style=for-the-badge&logo=express&logoColor=FF6EC7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D0D0D.svg?style=for-the-badge&logo=tailwind-css&logoColor=FF6EC7)
-
-**DATA / INFRA MODULE**<br/>
-![MySQL](https://img.shields.io/badge/mysql-0D0D0D.svg?style=for-the-badge&logo=mysql&logoColor=FFCF5C) ![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D.svg?style=for-the-badge&logo=mongodb&logoColor=FFCF5C) ![Firebase](https://img.shields.io/badge/firebase-0D0D0D.svg?style=for-the-badge&logo=firebase&logoColor=FFCF5C) ![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FFCF5C)
+**DATA / INFRA**<br/>
+![MySQL](https://img.shields.io/badge/mysql-FBF0CE.svg?style=for-the-badge&logo=mysql&logoColor=2C2A22&labelColor=C9B6E4) ![MongoDB](https://img.shields.io/badge/MongoDB-FBF0CE.svg?style=for-the-badge&logo=mongodb&logoColor=2C2A22&labelColor=C9B6E4) ![Firebase](https://img.shields.io/badge/firebase-FBF0CE.svg?style=for-the-badge&logo=firebase&logoColor=2C2A22&labelColor=C9B6E4) ![Postman](https://img.shields.io/badge/Postman-FBF0CE?style=for-the-badge&logo=postman&logoColor=2C2A22&labelColor=C9B6E4)
 
 **PERIPHERALS**<br/>
-![NPM](https://img.shields.io/badge/NPM-0D0D0D.svg?style=for-the-badge&logo=npm&logoColor=FFCF5C) ![Figma](https://img.shields.io/badge/figma-0D0D0D.svg?style=for-the-badge&logo=figma&logoColor=FFCF5C) ![Notion](https://img.shields.io/badge/Notion-0D0D0D?style=for-the-badge&logo=notion&logoColor=FFCF5C) ![Arduino](https://img.shields.io/badge/-Arduino-0D0D0D?style=for-the-badge&logo=Arduino&logoColor=FFCF5C)
-
-</div>
-
-<br/>
-
-## ▓▓▓ DIAL IN ▓▓▓
-
-```
-╔══════════════════════════════════════════╗
-║  CONNECT NOW. OPERATORS STANDING BY.       ║
-╚══════════════════════════════════════════╝
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D.svg?style=for-the-badge&logo=linkedin&logoColor=00FFF7)](https://www.linkedin.com/in/dhanush-k-aka-matrix/)
-[![X](https://img.shields.io/badge/X-0D0D0D.svg?style=for-the-badge&logo=X&logoColor=00FFF7)](https://x.com/dhanushk_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D.svg?style=for-the-badge&logo=firefox&logoColor=00FFF7)](https://hadhaan.com)
+![NPM](https://img.shields.io/badge/NPM-FBF0CE.svg?style=for-the-badge&logo=npm&logoColor=2C2A22&labelColor=BFE3C6) ![Figma](https://img.shields.io/badge/figma-FBF0CE.svg?style=for-the-badge&logo=figma&logoColor=2C2A22&labelColor=BFE3C6) ![Notion](https://img.shields.io/badge/Notion-FBF0CE?style=for-the-badge&logo=notion&logoColor=2C2A22&labelColor=BFE3C6) ![Arduino](https://img.shields.io/badge/-Arduino-FBF0CE?style=for-the-badge&logo=Arduino&logoColor=2C2A22&labelColor=BFE3C6)
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="./assets/connect.svg" width="100%"/>
+</div>
 
-Search **dhanush krishna** and you'll find me.
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FBF0CE.svg?style=for-the-badge&logo=linkedin&logoColor=2C2A22&labelColor=BFE3C6)](https://www.linkedin.com/in/dhanush-k-aka-matrix/)
+[![X](https://img.shields.io/badge/X-FBF0CE.svg?style=for-the-badge&logo=X&logoColor=2C2A22&labelColor=F2A6C7)](https://x.com/dhanushk_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FBF0CE.svg?style=for-the-badge&logo=firefox&logoColor=2C2A22&labelColor=F6C990)](https://hadhaan.com)
 
 [![](https://visitcount.itsvg.in/api?id=dhanushkrishna72&icon=0&color=0)](https://visitcount.itsvg.in)
-
-```
-THANK YOU FOR CHOOSING HADHAAN MICROSYSTEMS
-    ── PLEASE COME AGAIN ──
-```
-
-<img src="./assets/footer-grid.svg" width="100%"/>
 
 </div>
