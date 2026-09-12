@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DHANUSH%20K&fontSize=48&fontColor=00FFF7&fontAlignY=35&desc=MODEL%3A%20IT.PLUTO.44%20%7C%20SERIAL%20NO.%2072&descAlignY=55&descSize=18&descColor=FF6EC7&animation=fadeIn" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3000&pause=800&color=39FF14&background=0D0D0D&center=true&vCenter=true&width=700&lines=INTRODUCING+THE+ALL-NEW+DHANUSH-K+3000;NOW+WITH+SELF-TAUGHT+PROCESSOR;RUNS+ON+CURIOSITY+AND+COLD+COFFEE;NO+MANUAL+INCLUDED.+FIGURED+IT+OUT+HIMSELF." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=22&duration=3000&pause=800&color=39FF14&background=0D0D0D&center=true&vCenter=true&width=750&lines=INTRODUCING+THE+ALL-NEW+DHANUSH-K+3000;NOW+WITH+SELF-TAUGHT+PROCESSOR;RUNS+ON+CURIOSITY+AND+COLD+COFFEE;NO+MANUAL+INCLUDED.+FIGURED+IT+OUT+HIMSELF." alt="Typing SVG"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhanushkrishna72&color=FF6EC7&style=for-the-badge&label=UNITS+VIEWED)
+![Profile Views](https://komarev.com/ghpvc/?username=dhanushkrishna72&color=FF2E97&style=for-the-badge&label=UNITS+VIEWED)
 
 </div>
 
@@ -96,12 +96,12 @@ CPU USAGE: [██████████████████░░] 92%
 
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=dhanushkrishna72&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FF6EC7&text_color=00FFF7&icon_color=39FF14&border_color=1A1D21"/>
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhanushkrishna72&hide_border=true&layout=compact&bg_color=0D0D0D&title_color=FF6EC7&text_color=00FFF7&border_color=1A1D21"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=dhanushkrishna72&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FF2E97&text_color=00FFF7&icon_color=39FF14&border_color=1A1D21"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhanushkrishna72&hide_border=true&layout=compact&bg_color=0D0D0D&title_color=FF2E97&text_color=00FFF7&border_color=1A1D21"/>
 
-<img src="https://streak-stats.demolab.com?user=dhanushkrishna72&hide_border=true&background=0D0D0D&stroke=1A1D21&ring=FF6EC7&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FFF7&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=B8BDC7" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=dhanushkrishna72&hide_border=true&background=0D0D0D&stroke=1A1D21&ring=FF2E97&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FFF7&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=B8BDC7" alt="streak stats"/>
 
-<img src="https://ghchart.rshah.org/FF6EC7/dhanushkrishna72" alt="contribution heatmap" width="100%"/>
+<img src="https://ghchart.rshah.org/FF2E97/dhanushkrishna72" alt="contribution heatmap" width="100%"/>
 
 </div>
 
@@ -121,10 +121,10 @@ CPU USAGE: [██████████████████░░] 92%
 ![JavaScript](https://img.shields.io/badge/javascript-0D0D0D.svg?style=for-the-badge&logo=javascript&logoColor=FF6EC7) ![HTML5](https://img.shields.io/badge/html5-0D0D0D.svg?style=for-the-badge&logo=html5&logoColor=FF6EC7) ![CSS3](https://img.shields.io/badge/css3-0D0D0D.svg?style=for-the-badge&logo=css3&logoColor=FF6EC7) ![React Native](https://img.shields.io/badge/react_native-0D0D0D.svg?style=for-the-badge&logo=react&logoColor=FF6EC7) ![Next JS](https://img.shields.io/badge/Next-0D0D0D?style=for-the-badge&logo=next.js&logoColor=FF6EC7) ![NodeJS](https://img.shields.io/badge/node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=FF6EC7) ![Express.js](https://img.shields.io/badge/express.js-0D0D0D.svg?style=for-the-badge&logo=express&logoColor=FF6EC7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D0D0D.svg?style=for-the-badge&logo=tailwind-css&logoColor=FF6EC7)
 
 **DATA / INFRA MODULE**<br/>
-![MySQL](https://img.shields.io/badge/mysql-0D0D0D.svg?style=for-the-badge&logo=mysql&logoColor=FFB000) ![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D.svg?style=for-the-badge&logo=mongodb&logoColor=FFB000) ![Firebase](https://img.shields.io/badge/firebase-0D0D0D.svg?style=for-the-badge&logo=firebase&logoColor=FFB000) ![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FFB000)
+![MySQL](https://img.shields.io/badge/mysql-0D0D0D.svg?style=for-the-badge&logo=mysql&logoColor=FFCF5C) ![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D.svg?style=for-the-badge&logo=mongodb&logoColor=FFCF5C) ![Firebase](https://img.shields.io/badge/firebase-0D0D0D.svg?style=for-the-badge&logo=firebase&logoColor=FFCF5C) ![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FFCF5C)
 
 **PERIPHERALS**<br/>
-![NPM](https://img.shields.io/badge/NPM-0D0D0D.svg?style=for-the-badge&logo=npm&logoColor=FFB000) ![Figma](https://img.shields.io/badge/figma-0D0D0D.svg?style=for-the-badge&logo=figma&logoColor=FFB000) ![Notion](https://img.shields.io/badge/Notion-0D0D0D?style=for-the-badge&logo=notion&logoColor=FFB000) ![Arduino](https://img.shields.io/badge/-Arduino-0D0D0D?style=for-the-badge&logo=Arduino&logoColor=FFB000)
+![NPM](https://img.shields.io/badge/NPM-0D0D0D.svg?style=for-the-badge&logo=npm&logoColor=FFCF5C) ![Figma](https://img.shields.io/badge/figma-0D0D0D.svg?style=for-the-badge&logo=figma&logoColor=FFCF5C) ![Notion](https://img.shields.io/badge/Notion-0D0D0D?style=for-the-badge&logo=notion&logoColor=FFCF5C) ![Arduino](https://img.shields.io/badge/-Arduino-0D0D0D?style=for-the-badge&logo=Arduino&logoColor=FFCF5C)
 
 </div>
 
@@ -159,6 +159,6 @@ THANK YOU FOR CHOOSING HADHAAN MICROSYSTEMS
     ── PLEASE COME AGAIN ──
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="./assets/footer-grid.svg" width="100%"/>
 
 </div>
