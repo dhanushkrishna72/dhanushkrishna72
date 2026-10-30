@@ -1,7 +1,7 @@
  <div align="center">
 
 <a href="https://hadhaan.com">
-  <img src="./assets/collage.svg" width="100%" alt="Profile banner"/>
+  <!-- <img src="./assets/collage.svg" width="100%" alt="Profile banner"/> -->
 </a>
 
 # ⚽ THE PLAYER PROFILE
