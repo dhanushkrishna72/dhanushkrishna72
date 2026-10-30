@@ -1,77 +1,93 @@
-<div align="center">
+ <div align="center">
 
-<a href="https://hadhaan.com"><img src="./assets/collage.svg" width="100%"/></a>
+<a href="https://hadhaan.com">
+  <img src="./assets/collage.svg" width="100%" alt="Profile banner"/>
+</a>
 
-[![Launch Interactive Desktop](https://img.shields.io/badge/LAUNCH-INTERACTIVE%20DESKTOP-0A246A?style=for-the-badge&logo=windows95&logoColor=white)](https://dhanushkrishna72.github.io/dhanushkrishna72/dhanush98.html)
+# ⚽ THE PLAYER PROFILE
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhanushkrishna72&color=0A246A&style=flat-square&label=HIT+COUNTER)
+**DHANUSH KRISHNA** · `MATRIX`
 
-</div>
+[![Interactive Desktop](https://img.shields.io/badge/ENTER-THE%20DUGOUT-111111?style=for-the-badge&logo=windows95&logoColor=white)](https://dhanushkrishna72.github.io/dhanushkrishna72/dhanush98.html)
 
-<br/>
-
-<div align="center">
-<img src="./assets/aol.svg" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/stack98.svg" width="100%"/>
-</div>
-
-<br/>
-
-## ⬛ SYSTEM BENCHMARKS ⬛
-
-<div align="center">
-
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=dhanushkrishna72&hide_border=true&include_all_commits=true&count_private=true&bg_color=ECE9D8&title_color=0A246A&text_color=000000&icon_color=5A2D82&border_color=404040"/>
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhanushkrishna72&hide_border=true&layout=compact&bg_color=ECE9D8&title_color=0A246A&text_color=000000&border_color=404040"/>
-
-<img src="https://streak-stats.demolab.com?user=dhanushkrishna72&hide_border=true&background=ECE9D8&stroke=404040&ring=5A2D82&fire=D50F25&currStreakLabel=0A246A&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=606060" alt="streak stats"/>
-
-<img src="https://ghchart.rshah.org/0A246A/dhanushkrishna72" alt="contribution heatmap" width="100%"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=dhanushkrishna72&color=8BC34A&style=flat-square&label=STADIUM+ATTENDANCE)](https://github.com/dhanushkrishna72)
 
 </div>
 
-<br/>
+---
 
-## ⬛ COMPATIBLE COMPONENTS ⬛
+## 🏟️ MATCH STATISTICS
 
 <div align="center">
 
-**AI / ML / DATA SCIENCE**<br/>
-![Python](https://img.shields.io/badge/python-ECE9D8?style=for-the-badge&logo=python&logoColor=000000&labelColor=A6CAF0) ![NumPy](https://img.shields.io/badge/numpy-ECE9D8?style=for-the-badge&logo=numpy&logoColor=000000&labelColor=A6CAF0) ![Pandas](https://img.shields.io/badge/pandas-ECE9D8?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=A6CAF0) ![R](https://img.shields.io/badge/r-ECE9D8?style=for-the-badge&logo=r&logoColor=000000&labelColor=A6CAF0)
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=dhanushkrishna72&hide_border=true&include_all_commits=true&count_private=true&bg_color=101820&title_color=8BC34A&text_color=FFFFFF&icon_color=8BC34A"/>
 
-**CORE / SYSTEMS**<br/>
-![C](https://img.shields.io/badge/c-ECE9D8.svg?style=for-the-badge&logo=c&logoColor=000000&labelColor=E39B9B) ![C++](https://img.shields.io/badge/c++-ECE9D8.svg?style=for-the-badge&logo=c%2B%2B&logoColor=000000&labelColor=E39B9B) ![Dart](https://img.shields.io/badge/dart-ECE9D8.svg?style=for-the-badge&logo=dart&logoColor=000000&labelColor=E39B9B)
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhanushkrishna72&hide_border=true&layout=compact&bg_color=101820&title_color=8BC34A&text_color=FFFFFF"/>
 
-**WEB / MOBILE**<br/>
-![JavaScript](https://img.shields.io/badge/javascript-ECE9D8.svg?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F2C36B) ![HTML5](https://img.shields.io/badge/html5-ECE9D8.svg?style=for-the-badge&logo=html5&logoColor=000000&labelColor=F2C36B) ![CSS3](https://img.shields.io/badge/css3-ECE9D8.svg?style=for-the-badge&logo=css3&logoColor=000000&labelColor=F2C36B) ![React Native](https://img.shields.io/badge/react_native-ECE9D8.svg?style=for-the-badge&logo=react&logoColor=000000&labelColor=F2C36B) ![Next JS](https://img.shields.io/badge/Next-ECE9D8?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=F2C36B) ![NodeJS](https://img.shields.io/badge/node.js-ECE9D8?style=for-the-badge&logo=node.js&logoColor=000000&labelColor=F2C36B) ![Express.js](https://img.shields.io/badge/express.js-ECE9D8.svg?style=for-the-badge&logo=express&logoColor=000000&labelColor=F2C36B) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-ECE9D8.svg?style=for-the-badge&logo=tailwind-css&logoColor=000000&labelColor=F2C36B)
-
-**DATA / INFRA**<br/>
-![MySQL](https://img.shields.io/badge/mysql-ECE9D8.svg?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=B58ED6) ![MongoDB](https://img.shields.io/badge/MongoDB-ECE9D8.svg?style=for-the-badge&logo=mongodb&logoColor=000000&labelColor=B58ED6) ![Firebase](https://img.shields.io/badge/firebase-ECE9D8.svg?style=for-the-badge&logo=firebase&logoColor=000000&labelColor=B58ED6) ![Postman](https://img.shields.io/badge/Postman-ECE9D8?style=for-the-badge&logo=postman&logoColor=000000&labelColor=B58ED6)
-
-**PERIPHERALS**<br/>
-![NPM](https://img.shields.io/badge/NPM-ECE9D8.svg?style=for-the-badge&logo=npm&logoColor=000000&labelColor=7FCFCF) ![Figma](https://img.shields.io/badge/figma-ECE9D8.svg?style=for-the-badge&logo=figma&logoColor=000000&labelColor=7FCFCF) ![Notion](https://img.shields.io/badge/Notion-ECE9D8?style=for-the-badge&logo=notion&logoColor=000000&labelColor=7FCFCF) ![Arduino](https://img.shields.io/badge/-Arduino-ECE9D8?style=for-the-badge&logo=Arduino&logoColor=000000&labelColor=7FCFCF)
+<img src="https://streak-stats.demolab.com?user=dhanushkrishna72&hide_border=true&background=101820&stroke=263238&ring=8BC34A&fire=FF7043&currStreakLabel=8BC34A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
-<br/>
+## ⚽ THE SQUAD
 
 <div align="center">
-<img src="./assets/connect98.svg" width="100%"/>
+
+**ATTACK · AI / ML**
+
+![Python](https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=8BC34A)
+![NumPy](https://img.shields.io/badge/NumPy-101820?style=for-the-badge&logo=numpy&logoColor=8BC34A)
+![Pandas](https://img.shields.io/badge/Pandas-101820?style=for-the-badge&logo=pandas&logoColor=8BC34A)
+![R](https://img.shields.io/badge/R-101820?style=for-the-badge&logo=r&logoColor=8BC34A)
+
+**MIDFIELD · LANGUAGES & SYSTEMS**
+
+![C](https://img.shields.io/badge/C-101820?style=for-the-badge&logo=c&logoColor=8BC34A)
+![C++](https://img.shields.io/badge/C++-101820?style=for-the-badge&logo=cplusplus&logoColor=8BC34A)
+![Dart](https://img.shields.io/badge/Dart-101820?style=for-the-badge&logo=dart&logoColor=8BC34A)
+
+**DEFENCE · WEB DEVELOPMENT**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript&logoColor=8BC34A)
+![React](https://img.shields.io/badge/React-101820?style=for-the-badge&logo=react&logoColor=8BC34A)
+![Next.js](https://img.shields.io/badge/Next.js-101820?style=for-the-badge&logo=nextdotjs&logoColor=8BC34A)
+![Node.js](https://img.shields.io/badge/Node.js-101820?style=for-the-badge&logo=nodedotjs&logoColor=8BC34A)
+![Express](https://img.shields.io/badge/Express-101820?style=for-the-badge&logo=express&logoColor=8BC34A)
+![HTML5](https://img.shields.io/badge/HTML5-101820?style=for-the-badge&logo=html5&logoColor=8BC34A)
+![CSS3](https://img.shields.io/badge/CSS3-101820?style=for-the-badge&logo=css3&logoColor=8BC34A)
+![Tailwind](https://img.shields.io/badge/Tailwind-101820?style=for-the-badge&logo=tailwindcss&logoColor=8BC34A)
+![React Native](https://img.shields.io/badge/React_Native-101820?style=for-the-badge&logo=react&logoColor=8BC34A)
+
+**GOALKEEPER · DATABASE & TOOLS**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-101820?style=for-the-badge&logo=mongodb&logoColor=8BC34A)
+![MySQL](https://img.shields.io/badge/MySQL-101820?style=for-the-badge&logo=mysql&logoColor=8BC34A)
+![Firebase](https://img.shields.io/badge/Firebase-101820?style=for-the-badge&logo=firebase&logoColor=8BC34A)
+![Postman](https://img.shields.io/badge/Postman-101820?style=for-the-badge&logo=postman&logoColor=8BC34A)
+![Figma](https://img.shields.io/badge/Figma-101820?style=for-the-badge&logo=figma&logoColor=8BC34A)
+![Arduino](https://img.shields.io/badge/Arduino-101820?style=for-the-badge&logo=arduino&logoColor=8BC34A)
+
 </div>
 
-<br/>
+## 📊 SEASON PERFORMANCE
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ECE9D8.svg?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=A6CAF0)](https://www.linkedin.com/in/dhanush-k-aka-matrix/)
-[![X](https://img.shields.io/badge/X-ECE9D8.svg?style=for-the-badge&logo=X&logoColor=000000&labelColor=E39B9B)](https://x.com/dhanushk_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ECE9D8.svg?style=for-the-badge&logo=firefox&logoColor=000000&labelColor=F2C36B)](https://hadhaan.com)
+<img src="https://ghchart.rshah.org/8BC34A/dhanushkrishna72" width="100%" alt="Season contribution chart"/>
 
-[![](https://visitcount.itsvg.in/api?id=dhanushkrishna72&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 FIND ME OFF THE PITCH
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=8BC34A)](https://www.linkedin.com/in/dhanush-k-aka-matrix/)
+[![X](https://img.shields.io/badge/X-101820?style=for-the-badge&logo=x&logoColor=8BC34A)](https://x.com/dhanushk_)
+[![Website](https://img.shields.io/badge/WEBSITE-101820?style=for-the-badge&logo=firefox&logoColor=8BC34A)](https://hadhaan.com)
+
+**90 MINUTES. NO SHORTCUTS.**
+
+<sub>FULL TIME.</sub>
 
 </div>
