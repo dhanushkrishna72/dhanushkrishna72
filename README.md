@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <a href="https://hadhaan.com">
   <!-- <img src="./assets/collage.svg" width="100%" alt="Profile banner"/> -->
@@ -6,7 +6,7 @@
 
 # ⚽ THE PLAYER PROFILE
 
-**DHANUSH KRISHNA** · `MATRIX`
+**DHANUSH KRISHNA** · `its.Pluto.44`
 
 [![Interactive Desktop](https://img.shields.io/badge/ENTER-THE%20DUGOUT-111111?style=for-the-badge&logo=windows95&logoColor=white)](https://dhanushkrishna72.github.io/dhanushkrishna72/dhanush98.html)
 
@@ -82,7 +82,7 @@
 
 ## 🏆 FIND ME OFF THE PITCH
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=8BC34A)](https://www.linkedin.com/in/dhanush-k-aka-matrix/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=8BC34A)](https://www.linkedin.com/in/dhanushkrishna-plutoexplain/)
 [![X](https://img.shields.io/badge/X-101820?style=for-the-badge&logo=x&logoColor=8BC34A)](https://x.com/dhanushk_)
 [![Website](https://img.shields.io/badge/WEBSITE-101820?style=for-the-badge&logo=firefox&logoColor=8BC34A)](https://hadhaan.com)
 
